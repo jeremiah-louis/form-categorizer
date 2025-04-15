@@ -33,14 +33,14 @@ node index.js
 The application will:
 1. Use sample form questions and answers
 2. Format the responses according to the required structure
-3. Send the data to WetroCloud's categorization endpoint
+3. Send the data to Wetrocloud's categorization endpoint
 4. Display the form responses and the suggested career path
 
 ## Features
 
 - 15 predefined career-related questions
 - Sample answers for demonstration
-- Integration with WetroCloud's categorization service
+- Integration with Wetrocloud's categorization service
 - JSON-formatted output of form responses and career suggestions
 - Environment variable management with dotenv
 
