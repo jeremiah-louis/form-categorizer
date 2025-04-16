@@ -7,7 +7,7 @@ dotenv.config()
 
 // Initialize the SDK
 const client = new Wetrocloud({
-    apiSecret: process.env.WETRO_API_KEY // You'll need to set this environment variable
+    apiKey: process.env.WETRO_API_KEY // You'll need to set this environment variable
 });
 
 /*
